@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ebKooxCCkIaO3il5+MVphGHmPt6nbxs599g+G8j1IHN87j8xJmP7TTxQb+V53JBGoAmBU4ciEPJQ11QgZHBTkQ==",
+  "success": true,
+  "projectFilePath": "/Users/garrettrossfarnsworth/Desktop/GarrettFarnsworthTakeHomeProject/GarrettFarnsworthTakeHomeProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/garrettrossfarnsworth/.nuget/packages/newtonsoft.json/13.0.2/newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
